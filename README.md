@@ -6,7 +6,7 @@ Whether you are a beginner looking to get hands-on experience with Go or an expe
 
 ## Key Features
 
-- **Wide Range of Katas**: GoKatas includes a diverse set of katas covering various aspects of Go programming, including data structures, algorithms, concurrency, error handling, and more. This comprehensive collection ensures you can explore and practice different areas of Go development.
+- **Wide Range of Katas**: GoKatas includes a diverse set of katas covering various aspects of Go programming, including data structures, algorithms, concurrency, error handling, and more. This comprehensive collection ensures you can explore and practice different areas of Go development. If you would like to see a certain kata please open a issue under the **kata-request**.
 
 - **Clear Instructions**: Each kata is accompanied by clear and concise instructions, outlining the problem statement, required input/output, and any additional constraints or considerations.
 
