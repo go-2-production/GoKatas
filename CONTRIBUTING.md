@@ -64,7 +64,3 @@ By contributing to this repository, you agree that your contributions will be li
 Thank you for your interest in contributing to [Repository Name]. We appreciate your time and effort in making this project better.
 
 Happy contributing!
-
----
-
-Remember to replace the placeholder values (e.g., [Repository Name], [link-to-issues]) with the relevant information specific to your repository.
