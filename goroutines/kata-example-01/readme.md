@@ -37,3 +37,9 @@ In this example, the `handleRequest` function is invoked for each incoming HTTP 
 By leveraging goroutines, the server can handle multiple requests concurrently, ensuring that one slow request doesn't block others from being processed. This improves the responsiveness and scalability of the web server.
 
 Note that in a real-world scenario, you would typically use channels to coordinate the communication and synchronization between goroutines, especially if you need to collect results or handle errors from the goroutines. However, the example above focuses on illustrating the basic concept of using goroutines in a web server.
+
+# Kata Intructions
+
+Using this technique let's call the endpoint that we have in the `server.go`
+- ensure that we have tests for this as well using TDD best practices.
+  
