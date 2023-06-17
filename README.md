@@ -1,4 +1,5 @@
 # GoKatas
+![image](https://github.com/go-2-production/GoKatas/assets/38886930/969e0428-7956-4997-8c66-1fc5e53c930d)
 
 GoKatas is a repository dedicated to practicing and honing your Go programming skills through coding katas. Katas are small, focused programming exercises that help developers improve their problem-solving abilities and enhance their understanding of a programming language. This repository provides a collection of katas specifically designed for Go language learners and enthusiasts.
 
