@@ -59,4 +59,4 @@ Contributions to this repository are welcome! If you would like to add new desig
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and resources in this repository.
+This repository is licensed under the [MIT License](../LICENSE). Feel free to use, modify, and distribute the code and resources in this repository.
